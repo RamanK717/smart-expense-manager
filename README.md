@@ -1,10 +1,10 @@
 # Smart Expense & Budget Manager
 
-A modular, multi-threaded Java console application designed to record transactions, manage budgets, and calculate spending analytics using standard Java features.
+A modular, multi-threaded Java console application designed to record transactions, manage budgets, and calculate spending analytics using standard Java features which can prove to be usefull in real world.
 
 ## Key Features
-- **User Management**: Simple user session initialization.
-- **Transaction Engine**: Record income and expenses with validated numeric and categorical inputs.
+- **User Management**: Is Simple user session initialization.
+- **Transaction Engine**: Does Record income and expenses with validated numeric and categorical inputs.
 - **Financial Analytics**: Real-time balance calculations and categorical expense breakdown.
 - **Asynchronous Persistence**: Background thread (`AutoSaveThread`) automatically writes state changes to disk every 15 seconds.
 - **Robust Exception Handling**: Custom business rules prevent zero/negative values or corrupted files from halting execution.
